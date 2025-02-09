@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mir Mohsin 👋
 
-<!--
-**mirmohsin0001/mirmohsin0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building impactful projects and contributing to open-source communities. Here's a little more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various exciting projects across different domains.
+- 🌱 I’m continuously learning and improving my skills in software development.
+- 👯 I’m looking to collaborate on innovative and challenging projects.
+- 💬 Ask me about anything related to programming, open-source, and tech in general.
+- 📫 How to reach me: [mirmohsin0001@example.com](mailto:mirmohsin0001@example.com)
+- ⚡ Fun fact: I love exploring new technologies and staying up-to-date with industry trends.
+
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** Python, JavaScript, C++, Kotlin
+- **Frameworks & Libraries:** Node.js, React, Next.js, Tailwind
+- **Databases:** SQLite, MongoDB
+- **Tools & Platforms:** Git, AWS, GitHub Actions, Firebase, Vercel
+
+## 📈 GitHub Stats
+
+![Mir Mohsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirmohsin0001&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohsin-mir-3bba58136)
+- [Personal Website](https://mirmohsin.fun)
+
+Let's connect and create something amazing together!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mirmohsin0001)
